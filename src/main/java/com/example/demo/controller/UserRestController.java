@@ -10,7 +10,7 @@ public class UserRestController {
 	
 	@GetMapping("welcome")
 	public String welcome() {
-		return "OK";
+		return " OK ";
 	}
 	
 }
